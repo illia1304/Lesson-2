@@ -54,4 +54,3 @@ Console.WriteLine(2*Math.PI*y);
 Console.WriteLine(Math.Max(y, number1));
 
 Console.ReadLine();
-
